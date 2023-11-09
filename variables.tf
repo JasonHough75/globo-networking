@@ -14,7 +14,7 @@ variable "environment" {
 
 }
 
-variable "billing_Code" {
+variable "billing_code" {
   type = string
 
 }
